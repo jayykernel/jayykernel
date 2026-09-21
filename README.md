@@ -62,7 +62,7 @@ Indian Institute of Technology Madras
 │  > DSA                                            │
 │  > Real-World Projects                            │
 │                                                    │
-│  jayanithyan@github:~$ status                     │
+│  jayy kernel@github:~$ status                     │
 │                                                    │
 │  ███████████████████░░  Building...               │
 │                                                    │
